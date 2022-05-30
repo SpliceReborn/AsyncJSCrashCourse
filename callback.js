@@ -1,7 +1,3 @@
-/* Ice cream business
- * Receive order, prepare, serve
- */
-
 let inventory = {
     Fruits: ['strawberry', 'grape', 'banana', 'apple'],
     Liquid: ['water', 'ice'],
